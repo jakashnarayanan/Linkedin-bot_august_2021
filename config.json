@@ -1,0 +1,8 @@
+{
+    "email" : "enter your email id here",
+    "password" : "enter your passsword here",
+    "keywords" : "enter the role u were applying",
+    "location" : "enter the location you were looking for",
+    "level" : "enter your experinace level(with proper spelling)", 
+    "path" : "D:\\chromedriver.exe(change the path as per ur path)"
+}
