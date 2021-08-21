@@ -5,13 +5,13 @@ The modification till august 2021 has been made for find_by_element (in selenium
 Step 1:
 So how to use this repo:
 First you need a 
-1)python3
+[1)python3
 2)selenium library
 3)json
 4)xlwt
 5)radnom
 6)time
-7)math
+7)math](url)
 yes there is been lot lot going here. As linkedin has taken lots of steps to prevent bots), so you need all the libraries mentioned above
 
 Step2:
@@ -28,14 +28,14 @@ We are almost done
 Enter your details on the config.json file. your email id  , password all the mentioned details. And more importantly dont forget to type correct spelling for the label level.
 
 To brief:
-{
+[{
     "email" : "elisharoni040@gmail.com",
     "password" : "samsung5565",
     "keywords" : "html",
     "location" : "chennai",
     "level" : "internship", 
     "path" : "D:\\chromedriver.exe"
-}
+}](url)
 
 on label level where the intenrship has been mentioned.Linkedin allows you to choose between 6 level of experiance naming such as internship,entry level , assocaiate and so on. while entering your experiance level try to spell it correct.(i have already using tons of library i dont want to use another to check teh spells)
 
