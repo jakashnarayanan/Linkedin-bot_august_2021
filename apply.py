@@ -227,7 +227,7 @@ if __name__ == "__main__":
     #applied =excel.add_sheet('jobs applied')
     #not_applied = excel.add_sheet('jobs could not be applied')
 
-    with open('config.json') as config_file:
+    with open('D:\PROJECTS\job_apply_bot\config.json') as config_file:
         data = json.load(config_file)
     
     bot = Eassyapplylinkedin(data)
