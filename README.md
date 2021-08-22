@@ -22,6 +22,8 @@ also mention ur browser name on the line 28 on the python file apply.py.
 
 just replace the word chrome with browser driver that you have downloaded. if ur using chrome fine just leave that as of.
 
+Also add path of your config.json file to the line 230 of apply.py
+
 Step 3:
 We are almost done
 
