@@ -1,4 +1,6 @@
 # Linkedin-bot_august_2021
+This repo helps you apply for all jobs of your intrest on linkedin by just a click.
+
 The modification till august 2021 has been made for find_by_element (in selenium).where lot has been changed in linkedin HTML code recently
 
 
